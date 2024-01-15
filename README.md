@@ -4,4 +4,4 @@ lead to a higher growth in lower income countries than their more developed coun
 will lead to higher degrees of foreign investment, entrepreneurship activities and other unexamined factors that boaster this GDP growth opportunity. 
 
 discussed comprehensively in the paper. Our contribution to reexamine the preexisting economic theories and imperical 
-studies using comprehensive new data(2016, WorldBank) on 69 countries. 
+studies using comprehensive new data(2016, WorldBank) on 68 countries. 
