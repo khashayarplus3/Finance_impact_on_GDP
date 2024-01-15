@@ -1,6 +1,7 @@
-This repository is made to showcase the comprehensive Macroeconomic research project undertaken by the author to examine the impact 
-of Financial structure of a country on its GDP growth. We used robust regression models to effectively quantify the impact on 
-the gdp growth of several countries sorted based on their income-per-capita and found that lower income countries can benefit more 
-from a higher degree of financial infastructure and access in order to boom their growth. This is in-line with existing literature 
-discussed comprehensively in the paper. Our contribution with this paper is to reexamine the preexisting economic theories and imperical 
-studies using comprehensive new data(2016).  
+Macroeconomic research project on the impact of Financial structure of a country on its GDP growth. I made a robust regression models to effectively quantify how much will a country's GDP growth rate( as a proxy for growth of a country) is influenced by the sophistication of their Financial structure.
+We grouped the countries based on income( variable; income-per-capita) and found that higher degree of financial infastructure will
+lead to a higher growth in lower income countries than their more developed counterparts as access, liquidity, stability and trust in their financial systems 
+will lead to higher degrees of foreign investment, entrepreneurship activities and other unexamined factors that boaster this GDP growth opportunity. 
+
+discussed comprehensively in the paper. Our contribution to reexamine the preexisting economic theories and imperical 
+studies using comprehensive new data(2016, WorldBank) on 69 countries. 
